@@ -6,6 +6,11 @@
 - **University:** Shahid Beheshti University  
 ---
 
+##  introduction
+This course provides a structured treatment of the key principles and techniques for enabling efficient processing of deep neural networks (DNNs). DNNs are currently widely used for many artificial intelligence (AI) applications, including computer vision, speech recognition, and robotics. While DNNs deliver state-of-the-art accuracy on many AI tasks, it comes at the cost of high computational complexity. Therefore, techniques that enable efficient processing of deep neural networks to improve key metrics—such as energy-efficiency, throughput, and latency—without sacrificing accuracy or increasing hardware costs are critical to enabling the wide deployment of DNNs in AI systems.
+---
+
+
  HW : Implementing a Neural Network for CIFAR-10 Classification [LINK](https://github.com/matinfirooz/Implementing-a-Neural-Network-for-CIFAR-10-Classification.git)
  
  HW : Convolution Operation Using CUDA [LINK](https://github.com/matinfirooz/Convolution-Operation-Using-CUDA.git)
