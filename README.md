@@ -18,6 +18,6 @@
 
  HW : Output Stationary TPU Systolic Array [LINK](https://github.com/matinfirooz/TPU-Systolic-Array.git).
 
- 
+ It will be published at the end of 2025!
 
  
