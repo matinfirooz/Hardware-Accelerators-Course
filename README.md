@@ -1,4 +1,4 @@
-# Hardware-Accelerators-Course
+# Hardware Accelerators Course
 
 ##  Course Information
 - **Course Name:** Hardware Accelerators Course
