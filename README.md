@@ -16,4 +16,8 @@
 
  HW : LeNet-5 Pruning [LINK](https://github.com/matinfirooz/Lenet-5-Pruning.git).
 
+ HW : Output Stationary TPU Systolic Array [LINK](https://github.com/matinfirooz/TPU-Systolic-Array.git).
+
+ 
+
  
