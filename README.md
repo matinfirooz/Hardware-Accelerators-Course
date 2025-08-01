@@ -20,4 +20,9 @@
 
  It will be published at the end of 2025!
 
+---
+ ## References
+[1](“V. Sze, Y.-H. Chen, T.-J. Yang, and J. S. Emer, Efficient Processing of Deep Neural Networks. Cham: Springer International Publishing, 2020. doi: https://doi.org/10.1007/978-3-031-01766-7.”)  [LINK](https://link.springer.com/book/10.1007/978-3-031-01766-7).
+
+
  
