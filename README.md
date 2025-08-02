@@ -17,6 +17,7 @@ Therefore, this course explores techniques that improve key performance metricsâ
 
 ## Homework Assignments
 
+- **KMeans Clustering Implementation:** [GitHub Link](https://github.com/matinfirooz/KMeans-Clustering-Implementation.git) 
 - **Implementing a Neural Network for CIFAR-10 Classification:** [GitHub Link](https://github.com/matinfirooz/Implementing-a-Neural-Network-for-CIFAR-10-Classification.git)  
 - **Convolution Operation Using CUDA:** [GitHub Link](https://github.com/matinfirooz/Convolution-Operation-Using-CUDA.git)  
 - **Hardware-Accelerated MLP for Iris Dataset:** [GitHub Link](https://github.com/matinfirooz/Hardware-Accelerated-MLP-for-Iris-Dataset.git)  
