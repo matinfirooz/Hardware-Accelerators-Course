@@ -8,11 +8,11 @@
 ---
 
 ## Introduction
-
+<p align="justify">
 This course provides a structured treatment of the key principles and techniques for enabling efficient processing of deep neural networks (DNNs). DNNs are currently widely used in many artificial intelligence (AI) applications, including computer vision, speech recognition, and robotics. While DNNs deliver state-of-the-art accuracy on many AI tasks, they come at the cost of high computational complexity. 
 
 Therefore, this course explores techniques that improve key performance metrics—such as energy efficiency, throughput, and latency—without sacrificing accuracy or increasing hardware costs. These techniques are critical for the widespread deployment of DNNs in real-world AI systems.
-
+</p>
 ---
 
 ## Homework Assignments
