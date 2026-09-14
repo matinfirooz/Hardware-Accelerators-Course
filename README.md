@@ -23,8 +23,7 @@ Therefore, this course explores techniques that improve key performance metrics�
 - **LeNet-5 Quantization:** [GitHub Link](https://github.com/matinfirooz/LeNet-5-Quantization.git)  
 - **LeNet-5 Pruning:** [GitHub Link](https://github.com/matinfirooz/Lenet-5-Pruning.git)  
 - **Output Stationary TPU Systolic Array:** [GitHub Link](https://github.com/matinfirooz/TPU-Systolic-Array.git)  
-
-📌 **Note:** Final project will be published at the end of 2025!
+- **TriFlow-SA — Runtime-Reconfigurable Multi-Dataflow Systolic Array Accelerator:** [GitHub Link](https://github.com/matinfirooz/TriFlow-Systolic-Array.git)  
 
 ---
 
