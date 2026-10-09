@@ -24,7 +24,7 @@ Therefore, this course explores techniques that improve key performance metricsâ
 - **LeNet-5 Pruning:** [GitHub Link](https://github.com/matinfirooz/Lenet-5-Pruning.git)  
 - **Output Stationary TPU Systolic Array:** [GitHub Link](https://github.com/matinfirooz/TPU-Systolic-Array.git)  
 - **TriFlow-SA â€” Runtime-Reconfigurable Multi-Dataflow Systolic Array Accelerator:** [GitHub Link](https://github.com/matinfirooz/TriFlow-Systolic-Array.git)  
-
+- **Baugh-Wooley-multiplier:** [GitHub Link]([https://github.com/matinfirooz/TPU-Systolic-Array.git](https://github.com/matinfirooz/Baugh-Wooley-multiplier.git)  
 ---
 
 ## References
